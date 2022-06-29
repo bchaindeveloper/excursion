@@ -1,3 +1,3 @@
+# Excursion
 CodeCademy Project |
-Learn Git & GitHub |
-Excursion
+Learn Git & GitHub
